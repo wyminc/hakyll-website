@@ -1,0 +1,5 @@
+_cache/
+_site/
+_.vscode/
+_dist-newstyle/
+*.env
